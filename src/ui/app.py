@@ -12,7 +12,7 @@ st.set_page_config(
 )
 
 # Hardcoded API URL (sidebar removed as requested)
-api_url = "http://localhost:8000"
+api_url = "https://SMTA04-resume-screening-api.hf.space"
 
 # Custom CSS for futuristic interactive UI
 st.markdown("""
