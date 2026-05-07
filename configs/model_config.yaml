@@ -1,0 +1,15 @@
+skill_extraction:
+  method: "skillner"  # options: rule_based, skillner, spacy_ner
+  spacy_model: "en_core_web_lg"
+  
+matching:
+  core_skills:
+    - "aws"
+    - "docker"
+    - "kubernetes"
+    - "python"
+    - "machine learning"
+  thresholds:
+    min_score: 0.45
+    seniority_bonus: 0.10
+    certification_bonus: 0.05

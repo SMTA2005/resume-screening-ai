@@ -1,0 +1,967 @@
+2026-03-16 09:45:54,383 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-16 09:46:12,866 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-16 09:46:13,287 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-16 09:46:25,645 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-16 09:46:32,897 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-16 09:46:38,199 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-16 09:49:49,907 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-16 09:50:03,934 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-16 09:50:16,403 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-16 09:50:35,445 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-16 09:50:49,717 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-16 09:51:00,580 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-16 09:53:03,158 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-16 09:53:21,302 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-16 09:53:39,146 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-16 09:54:02,373 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-16 09:54:13,453 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-16 09:54:24,949 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-16 09:56:43,839 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-16 09:56:56,566 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-16 09:57:08,401 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-16 09:57:28,528 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-16 09:57:39,229 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-16 09:57:49,293 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-16 09:58:59,758 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-16 09:59:10,444 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-16 09:59:20,973 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-16 10:01:58,593 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-16 10:01:58,611 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-16 10:02:13,667 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-16 10:02:13,668 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-16 10:02:26,474 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-16 10:02:26,556 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-16 10:02:52,643 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-16 10:02:52,930 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-16 10:03:08,512 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-16 10:03:22,609 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-16 10:17:58,218 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-16 10:18:28,504 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-16 10:18:45,745 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-16 17:49:56,178 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-16 17:50:11,570 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-16 17:50:27,453 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-16 17:51:31,295 - src.api.main - INFO - Method: POST Path: / Status: 404 Duration: 0.00s
+2026-03-16 17:51:33,414 - src.api.main - ERROR - Error processing resume
+Traceback (most recent call last):
+  File "D:\Artificial intelligence (AI) Course\AI Code\DL Code\resume-screening-ai\src\api\main.py", line 255, in screen_resume
+    with open(temp_path, "wb") as f:
+         ~~~~^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/tmp/6283560b-6e2d-468b-aa2f-0c63e68fff04.pdf'
+2026-03-16 17:51:33,435 - src.api.main - INFO - Method: POST Path: /api/screen-resume Status: 500 Duration: 0.05s
+2026-03-16 18:00:21,157 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-16 18:00:32,487 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-16 18:00:43,510 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-16 18:01:58,492 - src.api.main - ERROR - Error processing resume
+Traceback (most recent call last):
+  File "D:\Artificial intelligence (AI) Course\AI Code\DL Code\resume-screening-ai\src\api\main.py", line 263, in screen_resume
+    skills = skill_extractor.extract(text)
+  File "D:\Artificial intelligence (AI) Course\AI Code\DL Code\resume-screening-ai\src\features\skill_extractor.py", line 56, in extract
+    skill = match['doc_ngram'].text
+            ~~~~~^^^^^^^^^^^^^
+KeyError: 'doc_ngram'
+2026-03-16 18:01:58,498 - src.api.main - INFO - Method: POST Path: /api/screen-resume Status: 500 Duration: 49.85s
+2026-03-16 18:01:58,536 - src.api.main - INFO - Method: POST Path: /api/screen-resume/api/screen-resume Status: 404 Duration: 0.00s
+2026-03-16 18:04:04,198 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-16 18:04:16,989 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-16 18:04:29,056 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-16 18:05:46,073 - src.api.main - INFO - Extracted skills: []
+2026-03-16 18:05:46,075 - src.api.main - ERROR - Error processing resume
+Traceback (most recent call last):
+  File "D:\Artificial intelligence (AI) Course\AI Code\DL Code\resume-screening-ai\src\api\main.py", line 267, in screen_resume
+    matches = matcher.match(skills, text)
+  File "D:\Artificial intelligence (AI) Course\AI Code\DL Code\resume-screening-ai\src\models\hybrid_matcher.py", line 116, in match
+    common = set(resume_skills) & set(job_skills)
+                                  ~~~^^^^^^^^^^^^
+TypeError: 'float' object is not iterable
+2026-03-16 18:05:46,081 - src.api.main - INFO - Method: POST Path: /api/screen-resume Status: 500 Duration: 43.91s
+2026-03-16 18:05:46,117 - src.api.main - INFO - Method: POST Path: /api/screen-resume/api/screen-resume Status: 404 Duration: 0.00s
+2026-03-17 06:10:46,127 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 06:11:51,185 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-17 06:12:12,726 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-17 06:16:33,273 - src.api.main - INFO - Extracted skills: []
+2026-03-17 06:16:33,275 - src.api.main - ERROR - Error processing resume
+Traceback (most recent call last):
+  File "D:\Artificial intelligence (AI) Course\AI Code\DL Code\resume-screening-ai\src\api\main.py", line 267, in screen_resume
+    matches = matcher.match(skills, text)
+  File "D:\Artificial intelligence (AI) Course\AI Code\DL Code\resume-screening-ai\src\models\hybrid_matcher.py", line 116, in match
+    common = set(resume_skills) & set(job_skills)
+                                  ~~~^^^^^^^^^^^^
+TypeError: 'float' object is not iterable
+2026-03-17 06:16:33,313 - src.api.main - INFO - Method: POST Path: /api/screen-resume Status: 500 Duration: 48.79s
+2026-03-17 06:16:33,349 - src.api.main - INFO - Method: POST Path: /api/screen-resume/api/screen-resume Status: 404 Duration: 0.00s
+2026-03-17 06:21:05,132 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 06:21:36,627 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 06:23:34,775 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 06:23:49,628 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-17 06:24:03,469 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-17 06:24:25,015 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 06:24:38,558 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-17 06:24:49,843 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-17 06:25:08,543 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 06:25:20,894 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-17 06:25:31,815 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-17 06:26:01,167 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 06:26:14,834 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-17 06:26:28,243 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-17 06:26:49,327 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 06:27:05,938 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-17 06:27:16,670 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-17 06:27:23,831 - src.models.hybrid_matcher - INFO - Loaded 45 job categories from data\processed\job_categories.csv
+2026-03-17 06:33:21,578 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 06:33:32,717 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-17 06:33:43,044 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-17 06:33:49,800 - src.models.hybrid_matcher - INFO - Loaded 45 job categories from data\processed\job_categories.csv
+2026-03-17 06:48:38,275 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 06:48:52,125 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-17 06:49:04,584 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-17 06:49:14,615 - src.models.hybrid_matcher - INFO - Loaded 45 job categories from data\processed\job_categories.csv
+2026-03-17 06:51:18,218 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 06:51:35,691 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-17 06:51:49,116 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-17 06:51:59,740 - src.models.hybrid_matcher - INFO - Loaded 45 job categories from data\processed\job_categories.csv
+2026-03-17 06:52:13,828 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 06:52:26,682 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-17 06:52:39,359 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-17 06:52:52,808 - src.models.hybrid_matcher - INFO - Loaded 45 job categories from data\processed\job_categories.csv
+2026-03-17 06:53:09,337 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 06:53:23,726 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-17 06:53:36,208 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-17 06:53:43,276 - src.models.hybrid_matcher - INFO - Loaded 45 job categories from data\processed\job_categories.csv
+2026-03-17 06:54:26,674 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.01s
+2026-03-17 06:55:15,901 - src.api.main - INFO - Method: GET Path: /job_status/5541ab13-aee0-4df4-a2b6-f0c2597429ab Status: 200 Duration: 0.02s
+2026-03-17 06:58:49,541 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 06:59:03,698 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-17 06:59:16,551 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-17 06:59:24,289 - src.models.hybrid_matcher - INFO - Loaded 45 job categories from data\processed\job_categories.csv
+2026-03-17 06:59:45,441 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.01s
+2026-03-17 07:00:29,954 - src.api.main - INFO - Method: GET Path: /job_status/618202ae-0fc4-440f-b3b6-13d885609051 Status: 200 Duration: 0.01s
+2026-03-17 07:01:20,837 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 07:01:36,508 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-17 07:01:52,966 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-17 07:02:01,747 - src.models.hybrid_matcher - INFO - Loaded 45 job categories from data\processed\job_categories.csv
+2026-03-17 07:02:12,505 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 07:02:24,555 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-17 07:02:37,633 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-17 07:02:45,323 - src.models.hybrid_matcher - INFO - Loaded 45 job categories from data\processed\job_categories.csv
+2026-03-17 07:03:06,235 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.01s
+2026-03-17 07:03:49,554 - src.api.main - INFO - Method: GET Path: /job_status/719b7bde-8128-4973-b4e0-894d14a36676 Status: 200 Duration: 0.00s
+2026-03-17 07:08:47,226 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 07:09:00,589 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-17 07:09:13,445 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-17 07:09:21,193 - src.models.hybrid_matcher - INFO - Loaded 45 job categories from data\processed\job_categories.csv
+2026-03-17 07:10:01,462 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.01s
+2026-03-17 07:10:51,515 - src.api.main - INFO - Method: GET Path: /job_status/<YOUR_JOB_ID> Status: 404 Duration: 0.00s
+2026-03-17 07:10:51,517 - src.api.main - INFO - Method: GET Path: /job_status/5276cfa6-e5d3-4795-b83b-d6a0313d33e5 Status: 200 Duration: 0.00s
+2026-03-17 07:11:17,854 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 07:11:32,894 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-17 07:11:45,859 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-17 07:11:53,668 - src.models.hybrid_matcher - INFO - Loaded 45 job categories from data\processed\job_categories.csv
+2026-03-17 07:12:40,490 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 07:12:52,539 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-17 07:13:02,832 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-17 07:13:09,607 - src.models.hybrid_matcher - INFO - Loaded 45 job categories from data\processed\job_categories.csv
+2026-03-17 07:15:19,765 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 07:15:34,251 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-17 07:15:44,711 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-17 07:15:52,896 - src.models.hybrid_matcher - INFO - Loaded 45 job categories from data\processed\job_categories.csv
+2026-03-17 07:16:05,435 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 07:16:21,355 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-17 07:16:34,514 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-17 07:16:41,865 - src.models.hybrid_matcher - INFO - Loaded 45 job categories from data\processed\job_categories.csv
+2026-03-17 07:17:26,922 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 07:17:42,350 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-17 07:17:53,534 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-17 07:18:00,713 - src.models.hybrid_matcher - INFO - Loaded 45 job categories from data\processed\job_categories.csv
+2026-03-17 07:18:10,651 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 07:18:21,377 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-17 07:18:31,412 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-17 07:18:38,244 - src.models.hybrid_matcher - INFO - Loaded 45 job categories from data\processed\job_categories.csv
+2026-03-17 07:20:01,675 - src.api.main - INFO - Extracted skills: []
+2026-03-17 07:20:01,678 - src.api.main - INFO - Method: POST Path: /api/screen-resume Status: 200 Duration: 52.02s
+2026-03-17 07:23:33,868 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 07:23:49,450 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-17 07:24:03,666 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-17 07:24:14,699 - src.models.hybrid_matcher - INFO - Loaded 45 job categories from data\processed\job_categories.csv
+2026-03-17 07:24:26,479 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 07:24:38,333 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-17 07:24:50,158 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-17 07:24:58,685 - src.models.hybrid_matcher - INFO - Loaded 45 job categories from data\processed\job_categories.csv
+2026-03-17 07:27:28,920 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 07:27:39,976 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-17 07:27:53,420 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-17 07:27:53,424 - src.features.skill_extractor - INFO - Simple Skill Extractor initialized with 104 skills
+2026-03-17 07:27:53,434 - src.models.hybrid_matcher - INFO - Loaded 45 job categories from data\processed\job_categories.csv
+2026-03-17 07:28:04,254 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 07:28:59,248 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 07:29:07,331 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-17 07:29:18,255 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-17 07:29:18,259 - src.features.skill_extractor - INFO - Simple Skill Extractor initialized with 104 skills
+2026-03-17 07:29:18,268 - src.models.hybrid_matcher - INFO - Loaded 45 job categories from data\processed\job_categories.csv
+2026-03-17 07:30:34,357 - src.features.skill_extractor - INFO - Extracted 18 skills: ['github', 'docker', 'jenkins', 'sql', 'redis', 'python', 'agile', 'java', 'javascript', 'azure']
+2026-03-17 07:30:34,357 - src.api.main - INFO - Extracted skills: ['github', 'docker', 'jenkins', 'sql', 'redis', 'python', 'agile', 'java', 'javascript', 'azure', 'mongodb', 'flask', 'react', 'microservices', 'scrum', 'tdd', 'django', 'aws']
+2026-03-17 07:30:38,672 - src.api.main - INFO - Method: POST Path: /api/screen-resume Status: 200 Duration: 39.43s
+2026-03-17 07:35:05,005 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 07:35:19,775 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-17 07:35:37,331 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-17 07:35:37,343 - src.features.skill_extractor - INFO - Simple Skill Extractor initialized with 104 skills
+2026-03-17 07:35:37,394 - src.models.hybrid_matcher - INFO - Loaded 45 job categories from data\processed\job_categories.csv
+2026-03-17 07:35:55,225 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 07:36:06,973 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-17 07:36:21,136 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-17 07:36:21,146 - src.features.skill_extractor - INFO - Simple Skill Extractor initialized with 104 skills
+2026-03-17 07:36:21,184 - src.models.hybrid_matcher - INFO - Loaded 45 job categories from data\processed\job_categories.csv
+2026-03-17 07:36:33,526 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 07:36:43,948 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-17 07:36:58,514 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-17 07:36:58,524 - src.features.skill_extractor - INFO - Simple Skill Extractor initialized with 104 skills
+2026-03-17 07:36:58,557 - src.models.hybrid_matcher - INFO - Loaded 45 job categories from data\processed\job_categories.csv
+2026-03-17 07:40:05,386 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 07:40:18,340 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 07:40:39,609 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 07:40:48,516 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-17 07:40:58,927 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-17 07:40:58,930 - src.features.skill_extractor - INFO - Simple Skill Extractor initialized with 104 skills
+2026-03-17 07:40:58,939 - src.models.hybrid_matcher - INFO - Loaded 45 job categories from data\processed\job_categories.csv
+2026-03-17 07:43:42,518 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 07:43:51,340 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-17 07:44:03,082 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-17 07:44:03,087 - src.features.skill_extractor - INFO - Simple Skill Extractor initialized with 104 skills
+2026-03-17 07:44:03,104 - src.models.hybrid_matcher - INFO - Loaded 45 job categories from data\processed\job_categories.csv
+2026-03-17 07:44:13,628 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 07:44:22,560 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-17 07:44:33,209 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-17 07:44:33,212 - src.features.skill_extractor - INFO - Simple Skill Extractor initialized with 104 skills
+2026-03-17 07:44:33,221 - src.models.hybrid_matcher - INFO - Loaded 45 job categories from data\processed\job_categories.csv
+2026-03-17 07:56:55,265 - src.features.skill_extractor - INFO - Extracted 18 skills: ['tdd', 'mongodb', 'github', 'flask', 'react', 'django', 'javascript', 'java', 'aws', 'python']
+2026-03-17 07:56:55,266 - src.api.main - INFO - Extracted skills: ['tdd', 'mongodb', 'github', 'flask', 'react', 'django', 'javascript', 'java', 'aws', 'python', 'azure', 'docker', 'sql', 'scrum', 'microservices', 'redis', 'agile', 'jenkins']
+2026-03-17 07:56:59,113 - src.api.main - INFO - Method: POST Path: /api/screen-resume Status: 200 Duration: 34.49s
+2026-03-17 08:10:24,549 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 08:10:36,714 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-17 08:10:51,137 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-17 08:10:51,142 - src.features.skill_extractor - INFO - Simple Skill Extractor initialized with 104 skills
+2026-03-17 08:10:51,171 - src.models.hybrid_matcher - INFO - Loaded 45 job categories from data\processed\job_categories.csv
+2026-03-17 08:11:08,427 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 08:11:18,332 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-17 08:11:31,631 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-17 08:11:31,635 - src.features.skill_extractor - INFO - Simple Skill Extractor initialized with 104 skills
+2026-03-17 08:11:31,645 - src.models.hybrid_matcher - INFO - Loaded 45 job categories from data\processed\job_categories.csv
+2026-03-17 08:17:46,310 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 08:17:55,543 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-17 08:18:06,919 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-17 08:18:06,924 - src.features.skill_extractor - INFO - Simple Skill Extractor initialized with 104 skills
+2026-03-17 08:18:06,930 - src.models.hybrid_matcher - INFO - CSV loaded, shape: (45, 4)
+2026-03-17 08:18:06,940 - src.models.hybrid_matcher - INFO - Loaded 45 job categories
+2026-03-17 08:19:38,714 - src.features.skill_extractor - INFO - Extracted 18 skills: ['jenkins', 'flask', 'aws', 'sql', 'redis', 'docker', 'python', 'mongodb', 'react', 'agile']
+2026-03-17 08:19:38,717 - src.api.main - INFO - Extracted skills: ['jenkins', 'flask', 'aws', 'sql', 'redis', 'docker', 'python', 'mongodb', 'react', 'agile', 'microservices', 'tdd', 'javascript', 'azure', 'java', 'github', 'django', 'scrum']
+2026-03-17 08:19:38,736 - src.api.main - INFO - Method: POST Path: /api/screen-resume Status: 200 Duration: 30.40s
+2026-03-17 08:26:36,759 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 08:26:46,725 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-17 08:27:02,626 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-17 08:27:02,631 - src.features.skill_extractor - INFO - Simple Skill Extractor initialized with 104 skills
+2026-03-17 08:27:02,643 - src.models.hybrid_matcher - INFO - CSV loaded, shape: (45, 4)
+2026-03-17 08:27:02,648 - src.models.hybrid_matcher - INFO - Loaded 45 job categories
+2026-03-17 08:33:15,930 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 08:33:26,075 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-17 08:33:39,445 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-17 08:33:39,450 - src.features.skill_extractor - INFO - Simple Skill Extractor initialized with 104 skills
+2026-03-17 08:33:39,453 - src.models.hybrid_matcher - INFO - CSV loaded, shape: (45, 4)
+2026-03-17 08:33:39,458 - src.models.hybrid_matcher - INFO - Loaded 45 job categories
+2026-03-17 08:34:07,383 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 08:34:15,687 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-17 08:34:27,514 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-17 08:34:27,517 - src.features.skill_extractor - INFO - Simple Skill Extractor initialized with 104 skills
+2026-03-17 08:34:27,520 - src.models.hybrid_matcher - INFO - CSV loaded, shape: (45, 4)
+2026-03-17 08:34:27,527 - src.models.hybrid_matcher - INFO - Loaded 45 job categories
+2026-03-17 08:34:50,704 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.01s
+2026-03-17 08:35:21,606 - src.features.skill_extractor - INFO - Extracted 18 skills: ['agile', 'microservices', 'flask', 'react', 'sql', 'django', 'aws', 'redis', 'github', 'docker']
+2026-03-17 08:35:21,612 - src.api.main - INFO - Method: GET Path: /job_status/7ab97221-7bcf-43c1-8e65-e9fa641f2d2e Status: 200 Duration: 0.00s
+2026-03-17 08:35:21,618 - src.api.main - INFO - Method: GET Path: /job_status/7ab97221-7bcf-43c1-8e65-e9fa641f2d2e Status: 200 Duration: 0.01s
+2026-03-17 08:35:21,619 - src.api.main - INFO - Method: GET Path: /job_status/7ab97221-7bcf-43c1-8e65-e9fa641f2d2e Status: 200 Duration: 0.01s
+2026-03-17 08:39:03,751 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 08:39:14,816 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-17 08:39:27,698 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-17 08:39:27,701 - src.features.skill_extractor - INFO - Simple Skill Extractor initialized with 104 skills
+2026-03-17 08:39:27,707 - src.models.hybrid_matcher - INFO - CSV loaded, shape: (45, 4)
+2026-03-17 08:39:27,713 - src.models.hybrid_matcher - INFO - Loaded 45 job categories
+2026-03-17 08:39:38,552 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 08:40:49,631 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 08:40:58,315 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-17 08:41:09,486 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-17 08:41:09,489 - src.features.skill_extractor - INFO - Simple Skill Extractor initialized with 104 skills
+2026-03-17 08:41:09,492 - src.models.hybrid_matcher - INFO - CSV loaded, shape: (45, 4)
+2026-03-17 08:41:09,496 - src.models.hybrid_matcher - INFO - Loaded 45 job categories
+2026-03-17 08:41:28,928 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.01s
+2026-03-17 08:41:57,754 - src.features.skill_extractor - INFO - Extracted 18 skills: ['tdd', 'flask', 'agile', 'aws', 'docker', 'redis', 'github', 'microservices', 'mongodb', 'java']
+2026-03-17 08:41:57,762 - src.api.main - INFO - Method: GET Path: /job_status/d9883dd5-cf31-4cfc-81d2-6fa23f646285 Status: 200 Duration: 0.00s
+2026-03-17 08:41:57,762 - src.api.main - INFO - Method: GET Path: /job_status/d9883dd5-cf31-4cfc-81d2-6fa23f646285 Status: 200 Duration: 0.00s
+2026-03-17 08:41:57,763 - src.api.main - INFO - Method: GET Path: /job_status/d9883dd5-cf31-4cfc-81d2-6fa23f646285 Status: 200 Duration: 0.00s
+2026-03-17 08:49:22,804 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 08:49:32,415 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-17 08:49:43,213 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-17 08:49:43,216 - src.features.skill_extractor - INFO - Simple Skill Extractor initialized with 104 skills
+2026-03-17 08:49:43,219 - src.models.hybrid_matcher - INFO - CSV loaded, shape: (45, 4)
+2026-03-17 08:49:43,224 - src.models.hybrid_matcher - INFO - Loaded 45 job categories
+2026-03-17 08:52:00,550 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 08:52:08,699 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-17 08:52:19,928 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-17 08:52:19,931 - src.features.skill_extractor - INFO - Simple Skill Extractor initialized with 104 skills
+2026-03-17 08:52:19,935 - src.models.hybrid_matcher - INFO - CSV loaded, shape: (45, 4)
+2026-03-17 08:52:19,941 - src.models.hybrid_matcher - INFO - Loaded 45 job categories
+2026-03-17 08:52:57,092 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.01s
+2026-03-17 08:53:24,872 - src.features.skill_extractor - INFO - Extracted 18 skills: ['python', 'sql', 'microservices', 'redis', 'tdd', 'jenkins', 'azure', 'agile', 'docker', 'javascript']
+2026-03-17 08:53:24,877 - src.api.main - INFO - Method: GET Path: /job_status/e23c8f68-7ed1-4ed7-b568-469111fe2c3b Status: 200 Duration: 0.00s
+2026-03-17 08:53:24,878 - src.api.main - INFO - Method: GET Path: /job_status/e23c8f68-7ed1-4ed7-b568-469111fe2c3b Status: 200 Duration: 0.00s
+2026-03-17 08:53:24,881 - src.api.main - INFO - Method: GET Path: /job_status/e23c8f68-7ed1-4ed7-b568-469111fe2c3b Status: 200 Duration: 0.01s
+2026-03-17 08:58:05,009 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 08:58:12,898 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-17 08:58:23,406 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-17 08:58:23,409 - src.features.skill_extractor - INFO - Simple Skill Extractor initialized with 104 skills
+2026-03-17 08:58:23,413 - src.models.hybrid_matcher - INFO - CSV loaded, shape: (25, 4)
+2026-03-17 08:58:23,415 - src.models.hybrid_matcher - INFO - Loaded 25 job categories
+2026-03-17 08:58:52,996 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.01s
+2026-03-17 08:59:21,299 - src.features.skill_extractor - INFO - Extracted 18 skills: ['flask', 'redis', 'azure', 'github', 'microservices', 'sql', 'jenkins', 'agile', 'mongodb', 'javascript']
+2026-03-17 08:59:21,308 - src.api.main - INFO - Method: GET Path: /job_status/d8140aac-1056-4771-9413-38126fa53445 Status: 200 Duration: 0.00s
+2026-03-17 08:59:21,309 - src.api.main - INFO - Method: GET Path: /job_status/d8140aac-1056-4771-9413-38126fa53445 Status: 200 Duration: 0.00s
+2026-03-17 08:59:21,310 - src.api.main - INFO - Method: GET Path: /job_status/d8140aac-1056-4771-9413-38126fa53445 Status: 200 Duration: 0.01s
+2026-03-17 09:04:46,424 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 09:04:55,720 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-17 09:05:08,846 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-17 09:05:08,850 - src.features.skill_extractor - INFO - Simple Skill Extractor initialized with 104 skills
+2026-03-17 09:05:08,853 - src.models.hybrid_matcher - INFO - CSV loaded, shape: (25, 4)
+2026-03-17 09:05:08,856 - src.models.hybrid_matcher - INFO - Loaded 25 job categories
+2026-03-17 09:05:17,927 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 09:05:26,460 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-17 09:05:37,066 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2026-03-17 09:05:37,069 - src.features.skill_extractor - INFO - Simple Skill Extractor initialized with 104 skills
+2026-03-17 09:05:37,072 - src.models.hybrid_matcher - INFO - CSV loaded, shape: (25, 4)
+2026-03-17 09:05:37,076 - src.models.hybrid_matcher - INFO - Loaded 25 job categories
+2026-03-17 09:08:29,963 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 09:16:18,731 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 09:16:25,628 - src.features.skill_extractor - INFO - Simple Skill Extractor initialized with 104 skills
+2026-03-17 09:16:25,641 - src.models.hybrid_matcher - INFO - Loaded 45 job categories
+2026-03-17 09:17:17,483 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.01s
+2026-03-17 09:17:46,769 - src.features.skill_extractor - INFO - Extracted 18 skills: ['agile', 'java', 'react', 'flask', 'javascript', 'docker', 'mongodb', 'tdd', 'python', 'django']
+2026-03-17 09:17:46,782 - src.api.main - INFO - Method: GET Path: /job_status/ad6f4933-6487-4d05-b54a-d7483d11bbe9 Status: 200 Duration: 0.01s
+2026-03-17 09:17:46,783 - src.api.main - INFO - Method: GET Path: /job_status/ad6f4933-6487-4d05-b54a-d7483d11bbe9 Status: 200 Duration: 0.01s
+2026-03-17 09:17:46,785 - src.api.main - INFO - Method: GET Path: /job_status/ad6f4933-6487-4d05-b54a-d7483d11bbe9 Status: 200 Duration: 0.01s
+2026-03-17 09:25:58,100 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-03-17 09:26:01,849 - src.features.skill_extractor - INFO - Simple Skill Extractor initialized with 104 skills
+2026-03-17 09:26:01,877 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-03-17 09:26:42,870 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.01s
+2026-03-17 09:27:12,880 - src.features.skill_extractor - INFO - Extracted 18 skills: ['javascript', 'microservices', 'django', 'react', 'docker', 'tdd', 'flask', 'java', 'jenkins', 'scrum']
+2026-03-17 09:27:12,891 - src.api.main - INFO - Method: GET Path: /job_status/24715466-b0a3-4e92-90bf-77cbf01f41d1 Status: 200 Duration: 0.00s
+2026-03-17 09:27:12,891 - src.api.main - INFO - Method: GET Path: /job_status/24715466-b0a3-4e92-90bf-77cbf01f41d1 Status: 200 Duration: 0.00s
+2026-03-17 09:27:12,892 - src.api.main - INFO - Method: GET Path: /job_status/24715466-b0a3-4e92-90bf-77cbf01f41d1 Status: 200 Duration: 0.00s
+2026-04-08 07:03:23,935 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-08 07:03:31,027 - src.features.skill_extractor - INFO - Simple Skill Extractor initialized with 104 skills
+2026-04-08 07:03:31,099 - src.models.hybrid_matcher - INFO - Loaded 20 job categories
+2026-04-08 07:05:01,693 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.01s
+2026-04-08 07:05:37,806 - src.features.skill_extractor - INFO - Extracted 18 skills: ['java', 'azure', 'mongodb', 'microservices', 'github', 'flask', 'scrum', 'tdd', 'docker', 'jenkins']
+2026-04-08 07:05:37,815 - src.api.main - INFO - Method: GET Path: /job_status/b9ef13a2-2455-4faa-bd32-e5a6ec0821a3 Status: 200 Duration: 0.00s
+2026-04-08 07:05:37,816 - src.api.main - INFO - Method: GET Path: /job_status/b9ef13a2-2455-4faa-bd32-e5a6ec0821a3 Status: 200 Duration: 0.01s
+2026-04-08 07:05:37,817 - src.api.main - INFO - Method: GET Path: /job_status/b9ef13a2-2455-4faa-bd32-e5a6ec0821a3 Status: 200 Duration: 0.01s
+2026-04-08 07:05:37,817 - src.api.main - INFO - Method: GET Path: /job_status/b9ef13a2-2455-4faa-bd32-e5a6ec0821a3 Status: 200 Duration: 0.01s
+2026-04-08 07:25:34,956 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-08 07:25:39,028 - src.features.skill_extractor - INFO - Simple Skill Extractor initialized with 104 skills
+2026-04-08 07:25:39,038 - src.models.hybrid_matcher - INFO - Loaded 20 job categories
+2026-04-08 07:25:50,392 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-08 07:25:55,193 - src.features.skill_extractor - INFO - Simple Skill Extractor initialized with 104 skills
+2026-04-08 07:25:55,204 - src.models.hybrid_matcher - INFO - Loaded 20 job categories
+2026-04-08 07:26:05,550 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-08 07:26:09,845 - src.features.skill_extractor - INFO - Simple Skill Extractor initialized with 104 skills
+2026-04-08 07:26:09,855 - src.models.hybrid_matcher - INFO - Loaded 20 job categories
+2026-04-08 07:26:35,147 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-08 07:26:40,268 - src.features.skill_extractor - INFO - Simple Skill Extractor initialized with 104 skills
+2026-04-08 07:26:40,279 - src.models.hybrid_matcher - INFO - Loaded 20 job categories
+2026-04-08 07:26:50,329 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-08 07:26:54,259 - src.features.skill_extractor - INFO - Simple Skill Extractor initialized with 104 skills
+2026-04-08 07:26:54,268 - src.models.hybrid_matcher - INFO - Loaded 20 job categories
+2026-04-08 07:27:55,342 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-08 07:27:59,546 - src.features.skill_extractor - INFO - Simple Skill Extractor initialized with 104 skills
+2026-04-08 07:27:59,556 - src.models.hybrid_matcher - INFO - Loaded 20 job categories
+2026-04-08 07:28:32,996 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.01s
+2026-04-08 07:29:09,048 - src.features.skill_extractor - INFO - Extracted 18 skills: ['react', 'django', 'flask', 'agile', 'jenkins', 'github', 'redis', 'microservices', 'javascript', 'sql']
+2026-04-08 07:29:09,054 - src.api.main - INFO - Method: GET Path: /job_status/afce23f0-dfae-4004-8046-42b9f4a29408 Status: 200 Duration: 0.00s
+2026-04-16 06:48:05,493 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-16 06:48:11,882 - src.features.skill_extractor - INFO - Simple Skill Extractor initialized with 104 skills
+2026-04-16 06:48:11,975 - src.models.hybrid_matcher - INFO - Loaded 20 job categories
+2026-04-16 06:49:22,020 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.01s
+2026-04-16 06:49:56,192 - src.features.skill_extractor - INFO - Extracted 18 skills: ['agile', 'django', 'flask', 'jenkins', 'javascript', 'redis', 'microservices', 'aws', 'mongodb', 'react']
+2026-04-16 06:49:56,199 - src.api.main - INFO - Method: GET Path: /job_status/122a5061-8917-4a60-b8b7-156811b28b5b Status: 200 Duration: 0.00s
+2026-04-16 06:50:42,250 - pikepdf._core - INFO - pikepdf C++ to Python logger bridge initialized
+2026-04-16 06:50:42,391 - img2pdf - WARNING - Image contains an alpha channel. Computing a separate soft mask (/SMask) image to store transparency in PDF.
+2026-04-16 06:50:42,485 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.51s
+2026-04-16 06:51:11,946 - src.features.skill_extractor - INFO - Extracted 13 skills: ['django', 'flask', 'jenkins', 'javascript', 'aws', 'mongodb', 'docker', 'github', 'sql', 'tdd']
+2026-04-16 06:51:11,950 - src.api.main - INFO - Method: GET Path: /job_status/31814c82-fcfd-453f-9ebd-c9d9c3dc85a6 Status: 200 Duration: 0.00s
+2026-04-16 06:57:59,495 - img2pdf - WARNING - Image contains an alpha channel. Computing a separate soft mask (/SMask) image to store transparency in PDF.
+2026-04-16 06:57:59,566 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.11s
+2026-04-16 06:58:17,201 - src.features.skill_extractor - INFO - Extracted 4 skills: ['machine learning', 'ai', 'python', 'deep learning']
+2026-04-16 06:58:17,207 - src.api.main - INFO - Method: GET Path: /job_status/c26ba280-ab0c-4da8-8add-c57ffc8023e7 Status: 200 Duration: 0.00s
+2026-04-16 07:13:47,366 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.58s
+2026-04-16 07:14:08,471 - src.features.skill_extractor - INFO - Extracted 0 skills: []
+2026-04-16 07:14:08,477 - src.api.main - INFO - Method: GET Path: /job_status/060881eb-0096-4f22-b878-9d13f6479e69 Status: 200 Duration: 0.00s
+2026-04-16 07:16:09,388 - img2pdf - WARNING - Image contains an alpha channel. Computing a separate soft mask (/SMask) image to store transparency in PDF.
+2026-04-16 07:16:09,439 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.09s
+2026-04-16 07:16:39,206 - src.features.skill_extractor - INFO - Extracted 6 skills: ['django', 'git', 'github', 'python', 'java', 'android']
+2026-04-16 07:16:39,210 - src.api.main - INFO - Method: GET Path: /job_status/da04a6f1-cb01-4de0-be30-4df688dbe931 Status: 200 Duration: 0.00s
+2026-04-16 07:20:53,869 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.01s
+2026-04-16 07:21:46,997 - src.features.skill_extractor - INFO - Extracted 6 skills: ['django', 'git', 'github', 'python', 'java', 'android']
+2026-04-16 07:21:47,004 - src.api.main - INFO - Method: GET Path: /job_status/b3eb2a34-923a-4155-9c5b-9d1fa554f224 Status: 200 Duration: 0.00s
+2026-04-16 07:25:06,911 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.01s
+2026-04-16 07:25:41,419 - src.features.skill_extractor - INFO - Extracted 18 skills: ['agile', 'django', 'flask', 'jenkins', 'javascript', 'redis', 'microservices', 'aws', 'mongodb', 'react']
+2026-04-16 07:25:41,427 - src.api.main - INFO - Method: GET Path: /job_status/f940cb7c-2088-4279-8c8a-008efebd62b7 Status: 200 Duration: 0.00s
+2026-04-16 07:29:38,499 - img2pdf - WARNING - Image contains an alpha channel. Computing a separate soft mask (/SMask) image to store transparency in PDF.
+2026-04-16 07:29:38,577 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.13s
+2026-04-16 07:30:03,093 - src.features.skill_extractor - INFO - Extracted 4 skills: ['data analysis', 'machine learning', 'python', 'matlab']
+2026-04-16 07:30:03,098 - src.api.main - INFO - Method: GET Path: /job_status/a78be621-1fed-45ed-8036-89eccfe652d2 Status: 200 Duration: 0.00s
+2026-04-16 07:39:04,536 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.00s
+2026-04-16 07:39:49,368 - src.features.skill_extractor - INFO - Extracted 6 skills: ['django', 'git', 'github', 'python', 'java', 'android']
+2026-04-16 07:39:49,374 - src.api.main - INFO - Method: GET Path: /job_status/7e778870-ccc6-41d6-aa43-db74da5ea011 Status: 200 Duration: 0.00s
+2026-04-16 07:41:25,205 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.01s
+2026-04-16 07:41:44,592 - src.features.skill_extractor - INFO - Extracted 0 skills: []
+2026-04-16 07:41:44,596 - src.api.main - INFO - Method: GET Path: /job_status/3ad45375-b6d4-4c55-af5e-76dea3f8077f Status: 200 Duration: 0.00s
+2026-04-16 10:06:31,839 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-16 10:06:35,133 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-16 10:07:14,538 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.01s
+2026-04-16 10:07:14,548 - src.features.skill_extractor - INFO - Extracted 0 skills: []
+2026-04-16 10:07:14,551 - src.api.main - INFO - Method: GET Path: /job_status/c9c99278-fe7b-4d95-bb07-4daa1ac93cd3 Status: 200 Duration: 0.00s
+2026-04-16 10:07:26,595 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.00s
+2026-04-16 10:07:33,193 - src.features.skill_extractor - INFO - Extracted 4 skills: ['django', 'social media', 'css', 'git']
+2026-04-16 10:07:33,196 - src.api.main - INFO - Method: GET Path: /job_status/9b0e177f-d8ce-4aae-9dd6-070ef6f49a49 Status: 200 Duration: 0.00s
+2026-04-16 10:08:00,639 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.00s
+2026-04-16 10:08:02,735 - src.features.skill_extractor - INFO - Extracted 3 skills: ['django', 'social media', 'git']
+2026-04-16 10:08:02,738 - src.api.main - INFO - Method: GET Path: /job_status/b6e5b8a7-1e22-43da-bced-e7b3830a1c66 Status: 200 Duration: 0.00s
+2026-04-16 10:08:54,053 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.00s
+2026-04-16 10:08:55,539 - src.features.skill_extractor - INFO - Extracted 3 skills: ['machine learning', 'python', 'data analysis']
+2026-04-16 10:08:55,542 - src.api.main - INFO - Method: GET Path: /job_status/689629f5-626b-4b2d-abf2-a57f0eae8ce8 Status: 200 Duration: 0.00s
+2026-04-16 10:14:13,944 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.00s
+2026-04-16 10:14:17,809 - src.features.skill_extractor - INFO - Extracted 17 skills: ['microservices', 'scrum', 'flask', 'django', 'python', 'sql', 'react', 'aws', 'java', 'jenkins']
+2026-04-16 10:14:17,812 - src.api.main - INFO - Method: GET Path: /job_status/3e3afd93-76ce-4b64-a219-cf7651a2dc36 Status: 200 Duration: 0.00s
+2026-04-16 10:57:29,492 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-16 10:57:32,657 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-16 10:58:11,873 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.02s
+2026-04-16 10:58:31,213 - src.features.skill_extractor - INFO - Extracted 0 skills: []
+2026-04-16 10:58:31,275 - src.api.main - INFO - Method: GET Path: /job_status/6e08efbd-7b09-42e9-aa84-bf4ea8d6407f Status: 200 Duration: 0.02s
+2026-04-16 10:58:43,887 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.01s
+2026-04-16 10:59:19,483 - src.features.skill_extractor - INFO - Extracted 6 skills: ['java', 'git', 'social media', 'python', 'django', 'css']
+2026-04-16 10:59:19,499 - src.api.main - INFO - Method: GET Path: /job_status/d6a7e167-8955-4f8f-9985-1780cd6ee199 Status: 200 Duration: 0.00s
+2026-04-16 11:00:13,262 - img2pdf - WARNING - Image contains an alpha channel. Computing a separate soft mask (/SMask) image to store transparency in PDF.
+2026-04-16 11:00:13,349 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.30s
+2026-04-16 11:00:38,057 - src.features.skill_extractor - INFO - Extracted 6 skills: ['java', 'git', 'social media', 'python', 'django', 'css']
+2026-04-16 11:00:38,060 - src.api.main - INFO - Method: GET Path: /job_status/b160f579-bb4e-4e55-a3e3-67d8c6f26105 Status: 200 Duration: 0.00s
+2026-04-16 11:02:05,858 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.01s
+2026-04-16 11:02:33,185 - src.features.skill_extractor - INFO - Extracted 15 skills: ['java', 'react', 'javascript', 'aws', 'agile', 'jenkins', 'azure', 'sql', 'python', 'django']
+2026-04-16 11:02:33,191 - src.api.main - INFO - Method: GET Path: /job_status/d990ca79-ffd2-40e8-82e6-ec25e6c5eab7 Status: 200 Duration: 0.00s
+2026-04-17 06:54:14,662 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-17 06:54:18,253 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-17 06:55:05,639 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.01s
+2026-04-17 06:55:55,099 - src.features.skill_extractor - INFO - Extracted 6 skills: ['python', 'css', 'java', 'django', 'social media', 'git']
+2026-04-17 06:55:55,166 - src.api.main - INFO - Method: GET Path: /job_status/7a212173-ec65-4bef-a7a4-3beffd6a1baa Status: 200 Duration: 0.02s
+2026-04-17 06:58:32,259 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.07s
+2026-04-17 06:59:17,000 - src.features.skill_extractor - INFO - Extracted 6 skills: ['python', 'css', 'java', 'django', 'social media', 'git']
+2026-04-17 06:59:17,007 - src.api.main - INFO - Method: GET Path: /job_status/5d78fe3b-ccc3-4ffd-8d2e-9da39edc55d6 Status: 200 Duration: 0.00s
+2026-04-17 06:59:17,123 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.12s
+2026-04-17 06:59:37,984 - src.features.skill_extractor - INFO - Extracted 0 skills: []
+2026-04-17 07:03:45,385 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-17 07:03:49,589 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-17 07:03:59,703 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-17 07:04:02,666 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-17 07:04:36,430 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.01s
+2026-04-17 07:04:57,251 - src.features.skill_extractor - INFO - Extracted 0 skills: []
+2026-04-17 07:04:57,259 - src.api.main - INFO - Method: GET Path: /job_status/241268cc-2f2b-47e6-9fc0-453d529b03b1 Status: 200 Duration: 0.00s
+2026-04-17 07:06:00,598 - img2pdf - WARNING - Image contains an alpha channel. Computing a separate soft mask (/SMask) image to store transparency in PDF.
+2026-04-17 07:06:00,672 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.14s
+2026-04-17 07:06:31,851 - src.features.skill_extractor - INFO - Extracted 6 skills: ['java', 'django', 'python', 'social media', 'git', 'css']
+2026-04-17 07:06:31,854 - src.api.main - INFO - Method: GET Path: /job_status/3982d059-2593-486e-915a-69103e06f99b Status: 200 Duration: 0.00s
+2026-04-17 07:25:28,460 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-17 07:25:31,563 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-17 07:25:31,578 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-17 07:26:01,520 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.04s
+2026-04-17 07:26:01,544 - src.features.pdf_resume_parser - INFO - Scanned PDF detected. Running EasyOCR...
+2026-04-17 07:26:22,830 - src.features.pdf_resume_parser - INFO - EasyOCR extracted 1 chars
+2026-04-17 07:26:22,838 - src.features.skill_extractor - INFO - Extracted 0 skills: []
+2026-04-17 07:26:22,843 - src.api.main - INFO - Method: GET Path: /job_status/f471da1e-55b6-46d3-9266-3fd0ca3c5fce Status: 200 Duration: 0.00s
+2026-04-17 07:36:31,413 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.03s
+2026-04-17 07:36:31,468 - src.features.pdf_resume_parser - INFO - Extracted 2111 chars using PyPDF2
+2026-04-17 07:36:31,479 - src.features.skill_extractor - INFO - Extracted 16 skills: ['agile', 'mongodb', 'flask', 'java', 'scrum', 'aws', 'python', 'jenkins', 'django', 'sql']
+2026-04-17 07:36:31,483 - src.api.main - INFO - Method: GET Path: /job_status/dba81512-a96b-4d2c-ac87-f5fe6b00e60b Status: 200 Duration: 0.00s
+2026-04-17 07:36:50,319 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.02s
+2026-04-17 07:36:50,349 - src.features.pdf_resume_parser - INFO - Extracted 2111 chars using PyPDF2
+2026-04-17 07:36:50,355 - src.features.skill_extractor - INFO - Extracted 16 skills: ['agile', 'mongodb', 'flask', 'java', 'scrum', 'aws', 'python', 'jenkins', 'django', 'sql']
+2026-04-17 07:36:50,363 - src.api.main - INFO - Method: GET Path: /job_status/99ad5c1b-ee8c-4dab-a1f7-96c41473239d Status: 200 Duration: 0.00s
+2026-04-17 07:37:05,539 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.01s
+2026-04-17 07:37:05,586 - src.features.pdf_resume_parser - INFO - Scanned PDF detected. Running EasyOCR...
+2026-04-17 07:37:40,106 - src.features.pdf_resume_parser - INFO - EasyOCR extracted 2186 chars
+2026-04-17 07:37:40,112 - src.features.skill_extractor - INFO - Extracted 15 skills: ['agile', 'mongodb', 'flask', 'java', 'scrum', 'aws', 'python', 'jenkins', 'django', 'sql']
+2026-04-17 07:37:40,118 - src.api.main - INFO - Method: GET Path: /job_status/44348b0d-17c3-4791-bdb9-5d5335b00597 Status: 200 Duration: 0.00s
+2026-04-17 07:42:25,339 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.02s
+2026-04-17 07:42:25,393 - src.features.pdf_resume_parser - INFO - Extracted 2222 chars using PyPDF2
+2026-04-17 07:42:25,398 - src.features.skill_extractor - INFO - Extracted 4 skills: ['django', 'css', 'social media', 'git']
+2026-04-17 07:42:25,407 - src.api.main - INFO - Method: GET Path: /job_status/77fd07c2-ebb4-47a5-9b78-514d82ffec1b Status: 200 Duration: 0.00s
+2026-04-18 06:12:42,712 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-18 06:12:50,446 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-18 06:12:50,544 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-18 06:17:25,091 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.01s
+2026-04-18 06:17:25,124 - src.features.pdf_resume_parser - INFO - Scanned PDF detected. Running EasyOCR...
+2026-04-18 06:18:12,798 - src.features.pdf_resume_parser - INFO - EasyOCR extracted 2490 chars
+2026-04-18 06:18:12,827 - src.features.skill_extractor - INFO - Extracted 6 skills: ['git', 'java', 'social media', 'django', 'css', 'python']
+2026-04-18 06:18:12,838 - src.api.main - INFO - Method: GET Path: /job_status/10a07af1-0115-4817-913f-dabb67088896 Status: 200 Duration: 0.00s
+2026-04-18 06:19:11,538 - pikepdf._core - INFO - pikepdf C++ to Python logger bridge initialized
+2026-04-18 06:19:11,733 - img2pdf - WARNING - Image contains an alpha channel. Computing a separate soft mask (/SMask) image to store transparency in PDF.
+2026-04-18 06:19:11,801 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.99s
+2026-04-18 06:19:11,834 - src.features.pdf_resume_parser - INFO - Scanned PDF detected. Running EasyOCR...
+2026-04-18 06:19:44,003 - src.features.pdf_resume_parser - INFO - EasyOCR extracted 2467 chars
+2026-04-18 06:19:44,015 - src.features.skill_extractor - INFO - Extracted 6 skills: ['git', 'java', 'social media', 'django', 'css', 'python']
+2026-04-18 06:19:44,019 - src.api.main - INFO - Method: GET Path: /job_status/f9ddfc75-3070-4d09-9f21-b4bc6fc04006 Status: 200 Duration: 0.00s
+2026-04-18 06:20:19,085 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.10s
+2026-04-18 06:20:19,110 - src.features.pdf_resume_parser - INFO - Extracted 2111 chars using PyPDF2
+2026-04-18 06:20:19,117 - src.features.skill_extractor - INFO - Extracted 16 skills: ['sql', 'docker', 'react', 'flask', 'aws', 'jenkins', 'java', 'javascript', 'mongodb', 'django']
+2026-04-18 06:20:19,123 - src.api.main - INFO - Method: GET Path: /job_status/9a1b1576-0ec9-4af6-ad62-a5f34ce6df46 Status: 200 Duration: 0.00s
+2026-04-18 06:28:24,873 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-18 06:28:30,336 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-18 06:28:30,356 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-18 06:30:50,429 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-18 06:30:54,151 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-18 06:30:54,164 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-18 06:32:59,325 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-18 06:33:03,395 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-18 06:33:03,410 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-18 06:33:14,853 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-18 06:33:17,849 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-18 06:33:17,863 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-18 06:33:49,237 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.04s
+2026-04-18 06:33:49,273 - src.features.pdf_resume_parser - INFO - Extracted 2222 chars using PyPDF2
+2026-04-18 06:33:49,284 - src.features.skill_extractor - INFO - Extracted 4 skills: ['social media', 'css', 'git', 'django']
+2026-04-18 06:33:49,290 - src.api.main - INFO - Method: GET Path: /job_status/de599838-f369-42bc-b39f-45570e4667ae Status: 200 Duration: 0.00s
+2026-04-18 06:34:09,193 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.00s
+2026-04-18 06:34:09,213 - src.features.pdf_resume_parser - INFO - Scanned PDF detected. Running EasyOCR...
+2026-04-18 06:34:54,545 - src.features.pdf_resume_parser - INFO - EasyOCR extracted 2490 chars
+2026-04-18 06:34:54,553 - src.features.skill_extractor - INFO - Extracted 6 skills: ['css', 'python', 'social media', 'java', 'git', 'django']
+2026-04-18 06:34:54,561 - src.api.main - INFO - Method: GET Path: /job_status/99a2688c-d0bf-4596-bc5f-c761ca1d4e47 Status: 200 Duration: 0.00s
+2026-04-18 06:38:18,635 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-18 06:38:22,595 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-18 06:38:22,612 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-18 06:38:33,437 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-18 06:38:36,952 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-18 06:38:36,966 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-18 06:39:45,931 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-18 06:39:49,110 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-18 06:39:49,126 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-18 06:40:03,465 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-18 06:40:07,736 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-18 06:40:07,750 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-18 06:40:18,975 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-18 06:40:23,984 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-18 06:40:24,027 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-18 06:40:44,702 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-18 06:40:49,188 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-18 06:40:49,207 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-18 06:40:58,827 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-18 06:41:01,859 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-18 06:41:01,874 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-18 06:41:37,356 - src.features.skill_extractor - INFO - Extracted 4 skills: ['git', 'social media', 'css', 'django']
+2026-04-18 06:41:37,359 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.04s
+2026-04-18 06:41:37,375 - src.api.main - INFO - Method: GET Path: /job_status/b7fc80d0-c36d-446e-be52-968caf0b072c Status: 200 Duration: 0.00s
+2026-04-18 06:41:45,851 - src.features.skill_extractor - INFO - Extracted 16 skills: ['scrum', 'node.js', 'django', 'agile', 'aws', 'jenkins', 'mongodb', 'javascript', 'java', 'azure']
+2026-04-18 06:41:45,853 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.04s
+2026-04-18 06:41:45,859 - src.api.main - INFO - Method: GET Path: /job_status/b5eb9c9e-f6f5-45a0-b661-e0bbcdec416e Status: 200 Duration: 0.00s
+2026-04-18 06:42:06,735 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.00s
+2026-04-18 06:42:26,616 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.00s
+2026-04-18 06:42:35,224 - src.api.main - INFO - Method: POST Path: /upload_resume_async Status: 200 Duration: 0.00s
+2026-04-18 06:49:31,549 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-18 06:49:35,576 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-18 06:49:35,591 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-18 06:49:47,860 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-18 06:49:51,635 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-18 06:49:51,655 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-18 06:50:01,654 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-18 06:50:04,751 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-18 06:50:04,766 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-18 06:53:22,941 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-18 06:53:26,756 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-18 06:53:27,713 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-18 06:54:47,798 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-18 06:54:50,848 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-18 06:54:51,513 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-18 07:02:34,603 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-18 07:02:38,066 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-18 07:02:38,918 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-18 07:02:59,886 - src.features.pdf_resume_parser - INFO - Scanned PDF detected. Running EasyOCR...
+2026-04-18 07:03:42,699 - src.features.pdf_resume_parser - INFO - EasyOCR extracted 2490 chars
+2026-04-18 07:03:42,702 - src.api.main - INFO - POST /upload_resume_async -> 200 (42.84s)
+2026-04-18 07:03:42,703 - src.api.main - INFO - Processing job 7d752d20-8e99-4aed-9c0a-aece89b1e41d, text length: 2490
+2026-04-18 07:03:42,712 - src.features.skill_extractor - INFO - Extracted 6 skills: ['django', 'java', 'social media', 'git', 'css', 'python']
+2026-04-18 07:03:42,716 - src.api.main - INFO - Job 7d752d20-8e99-4aed-9c0a-aece89b1e41d completed with 3 matches
+2026-04-18 07:03:42,720 - src.api.main - INFO - GET /job_status/7d752d20-8e99-4aed-9c0a-aece89b1e41d -> 200 (0.00s)
+2026-04-18 07:04:08,053 - src.features.pdf_resume_parser - INFO - Scanned PDF detected. Running EasyOCR...
+2026-04-18 07:04:43,031 - src.features.pdf_resume_parser - INFO - EasyOCR extracted 2186 chars
+2026-04-18 07:04:43,033 - src.api.main - INFO - POST /upload_resume_async -> 200 (35.01s)
+2026-04-18 07:04:43,035 - src.api.main - INFO - Processing job d354e723-fe51-4fae-b78d-8896fdcdda65, text length: 2186
+2026-04-18 07:04:43,046 - src.features.skill_extractor - INFO - Extracted 15 skills: ['aws', 'sql', 'django', 'mongodb', 'java', 'microservices', 'react', 'jenkins', 'agile', 'flask']
+2026-04-18 07:04:43,050 - src.api.main - INFO - Job d354e723-fe51-4fae-b78d-8896fdcdda65 completed with 5 matches
+2026-04-18 07:04:43,053 - src.api.main - INFO - GET /job_status/d354e723-fe51-4fae-b78d-8896fdcdda65 -> 200 (0.00s)
+2026-04-18 07:05:20,287 - pikepdf._core - INFO - pikepdf C++ to Python logger bridge initialized
+2026-04-18 07:05:20,434 - img2pdf - WARNING - Image contains an alpha channel. Computing a separate soft mask (/SMask) image to store transparency in PDF.
+2026-04-18 07:05:20,579 - src.features.pdf_resume_parser - INFO - Scanned PDF detected. Running EasyOCR...
+2026-04-18 07:05:56,762 - src.features.pdf_resume_parser - INFO - EasyOCR extracted 2467 chars
+2026-04-18 07:05:56,764 - src.api.main - INFO - POST /upload_resume_async -> 200 (36.55s)
+2026-04-18 07:05:56,766 - src.api.main - INFO - Processing job e4f0b4de-269a-4107-b330-2472d5472b9f, text length: 2467
+2026-04-18 07:05:56,778 - src.features.skill_extractor - INFO - Extracted 6 skills: ['django', 'java', 'social media', 'git', 'css', 'python']
+2026-04-18 07:05:56,780 - src.api.main - INFO - Job e4f0b4de-269a-4107-b330-2472d5472b9f completed with 3 matches
+2026-04-18 07:05:56,786 - src.api.main - INFO - GET /job_status/e4f0b4de-269a-4107-b330-2472d5472b9f -> 200 (0.00s)
+2026-04-18 07:07:38,758 - src.features.pdf_resume_parser - INFO - Scanned PDF detected. Running EasyOCR...
+2026-04-18 07:08:09,843 - src.features.pdf_resume_parser - INFO - EasyOCR extracted 2478 chars
+2026-04-18 07:08:09,846 - src.api.main - INFO - POST /upload_resume_async -> 200 (31.17s)
+2026-04-18 07:08:09,848 - src.api.main - INFO - Processing job d9d47577-1f29-4d2e-b69d-73f91f515e01, text length: 2478
+2026-04-18 07:08:09,856 - src.features.skill_extractor - INFO - Extracted 5 skills: ['django', 'java', 'git', 'css', 'python']
+2026-04-18 07:08:09,857 - src.api.main - INFO - Job d9d47577-1f29-4d2e-b69d-73f91f515e01 completed with 3 matches
+2026-04-18 07:08:09,859 - src.api.main - INFO - GET /job_status/d9d47577-1f29-4d2e-b69d-73f91f515e01 -> 200 (0.00s)
+2026-04-18 07:10:40,221 - src.features.pdf_resume_parser - INFO - Scanned PDF detected. Running EasyOCR...
+2026-04-18 07:11:18,429 - src.features.pdf_resume_parser - INFO - EasyOCR extracted 2179 chars
+2026-04-18 07:11:18,432 - src.api.main - INFO - POST /upload_resume_async -> 200 (38.25s)
+2026-04-18 07:11:18,433 - src.api.main - INFO - Processing job 02abcf4e-890f-4b7c-a1c3-61a8b96e160b, text length: 2179
+2026-04-18 07:11:18,443 - src.features.skill_extractor - INFO - Extracted 15 skills: ['aws', 'sql', 'django', 'mongodb', 'java', 'microservices', 'react', 'jenkins', 'agile', 'flask']
+2026-04-18 07:11:18,444 - src.api.main - INFO - Job 02abcf4e-890f-4b7c-a1c3-61a8b96e160b completed with 5 matches
+2026-04-18 07:11:18,457 - src.api.main - INFO - GET /job_status/02abcf4e-890f-4b7c-a1c3-61a8b96e160b -> 200 (0.00s)
+2026-04-18 07:12:00,687 - src.features.pdf_resume_parser - INFO - Scanned PDF detected. Running EasyOCR...
+2026-04-18 07:12:35,284 - src.features.pdf_resume_parser - INFO - EasyOCR extracted 2179 chars
+2026-04-18 07:12:35,287 - src.api.main - INFO - POST /upload_resume_async -> 200 (34.68s)
+2026-04-18 07:12:35,289 - src.api.main - INFO - Processing job fe3a1d4f-487d-4e4b-af77-e9e31e626763, text length: 2179
+2026-04-18 07:12:35,296 - src.features.skill_extractor - INFO - Extracted 15 skills: ['aws', 'sql', 'django', 'mongodb', 'java', 'microservices', 'react', 'jenkins', 'agile', 'flask']
+2026-04-18 07:12:35,300 - src.api.main - INFO - Job fe3a1d4f-487d-4e4b-af77-e9e31e626763 completed with 5 matches
+2026-04-18 07:12:35,302 - src.api.main - INFO - GET /job_status/fe3a1d4f-487d-4e4b-af77-e9e31e626763 -> 200 (0.00s)
+2026-04-18 07:17:03,019 - src.features.pdf_resume_parser - INFO - Scanned PDF detected. Running EasyOCR...
+2026-04-18 07:17:35,444 - src.features.pdf_resume_parser - INFO - EasyOCR extracted 2485 chars
+2026-04-18 07:17:35,446 - src.api.main - INFO - POST /upload_resume_async -> 200 (32.47s)
+2026-04-18 07:17:35,448 - src.api.main - INFO - Processing job ae8b9621-17e1-42bd-bc86-115ef48fe89f, text length: 2485
+2026-04-18 07:17:35,461 - src.features.skill_extractor - INFO - Extracted 5 skills: ['django', 'java', 'git', 'css', 'python']
+2026-04-18 07:17:35,463 - src.api.main - INFO - Job ae8b9621-17e1-42bd-bc86-115ef48fe89f completed with 3 matches
+2026-04-18 07:17:35,465 - src.api.main - INFO - GET /job_status/ae8b9621-17e1-42bd-bc86-115ef48fe89f -> 200 (0.00s)
+2026-04-19 07:04:47,230 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-19 07:04:50,791 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-19 07:04:53,766 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-19 07:05:34,887 - pikepdf._core - INFO - pikepdf C++ to Python logger bridge initialized
+2026-04-19 07:05:35,077 - src.features.pdf_resume_parser - INFO - Scanned PDF detected. Running EasyOCR...
+2026-04-19 07:06:09,122 - src.features.pdf_resume_parser - INFO - EasyOCR extracted 2485 chars
+2026-04-19 07:06:09,125 - src.api.main - INFO - POST /upload_resume_async -> 200 (34.48s)
+2026-04-19 07:06:09,127 - src.api.main - INFO - Processing job 6330e19b-0470-4609-8c0c-8456d9dfa440, text length: 2485
+2026-04-19 07:06:09,145 - src.features.skill_extractor - INFO - Extracted 5 skills: ['java', 'git', 'css', 'python', 'django']
+2026-04-19 07:06:09,149 - src.api.main - INFO - Job 6330e19b-0470-4609-8c0c-8456d9dfa440 completed with 3 matches
+2026-04-19 07:07:24,736 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-19 07:07:28,822 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-19 07:07:29,735 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-19 07:08:25,207 - pikepdf._core - INFO - pikepdf C++ to Python logger bridge initialized
+2026-04-19 07:08:25,329 - src.features.pdf_resume_parser - INFO - Scanned PDF detected. Running EasyOCR...
+2026-04-19 07:08:59,088 - src.features.pdf_resume_parser - INFO - EasyOCR extracted 2485 chars
+2026-04-19 07:08:59,091 - src.api.main - INFO - POST /upload_resume_async -> 200 (33.92s)
+2026-04-19 07:08:59,094 - src.api.main - INFO - Processing job 8f7716d6-0d87-42d2-b3d3-f91c8f8765f7, text length: 2485
+2026-04-19 07:08:59,111 - src.features.skill_extractor - INFO - Extracted 5 skills: ['python', 'django', 'git', 'css', 'java']
+2026-04-19 07:08:59,118 - src.api.main - INFO - Job 8f7716d6-0d87-42d2-b3d3-f91c8f8765f7 completed with 3 matches
+2026-04-19 07:09:01,147 - src.api.main - INFO - GET /job_status/8f7716d6-0d87-42d2-b3d3-f91c8f8765f7 -> 200 (0.00s)
+2026-04-19 07:15:03,372 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-19 07:15:06,825 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-19 07:15:08,008 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-19 07:15:19,009 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-19 07:15:22,173 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-19 07:15:23,040 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-19 07:16:08,440 - pikepdf._core - INFO - pikepdf C++ to Python logger bridge initialized
+2026-04-19 07:16:10,044 - src.features.pdf_resume_parser - INFO - Scanned PDF detected. Running EasyOCR...
+2026-04-19 07:17:27,737 - src.features.pdf_resume_parser - INFO - EasyOCR extracted 2485 chars
+2026-04-19 07:17:27,741 - src.api.main - INFO - POST /upload_resume_async -> 200 (80.02s)
+2026-04-19 07:17:27,745 - src.api.main - INFO - Processing job 1f0c0fbb-e216-46db-80a8-d4875145fe3d, text length: 2485
+2026-04-19 07:17:27,776 - src.features.skill_extractor - INFO - Extracted 5 skills: ['css', 'git', 'python', 'django', 'java']
+2026-04-19 07:17:27,783 - src.api.main - INFO - Job 1f0c0fbb-e216-46db-80a8-d4875145fe3d completed with 3 matches
+2026-04-19 07:17:40,763 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-19 07:17:43,908 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-19 07:17:44,994 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-19 07:18:36,497 - pikepdf._core - INFO - pikepdf C++ to Python logger bridge initialized
+2026-04-19 07:18:36,686 - src.features.pdf_resume_parser - INFO - Scanned PDF detected. Running EasyOCR...
+2026-04-19 07:19:28,289 - src.features.pdf_resume_parser - INFO - EasyOCR extracted 2485 chars
+2026-04-19 07:19:28,295 - src.api.main - INFO - POST /upload_resume_async -> 200 (51.86s)
+2026-04-19 07:19:28,302 - src.api.main - INFO - Processing job f536da83-c961-4ec2-9f66-1f116149cafb, text length: 2485
+2026-04-19 07:19:28,335 - src.features.skill_extractor - INFO - Extracted 5 skills: ['python', 'css', 'git', 'django', 'java']
+2026-04-19 07:19:28,340 - src.api.main - INFO - Job f536da83-c961-4ec2-9f66-1f116149cafb completed with 3 matches
+2026-04-19 07:19:30,376 - src.api.main - INFO - GET /job_status/f536da83-c961-4ec2-9f66-1f116149cafb -> 200 (0.01s)
+2026-04-19 07:32:21,579 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-19 07:32:25,853 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-19 07:32:27,545 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-19 07:33:54,847 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-19 07:33:58,461 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-19 07:33:59,401 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-19 07:34:58,100 - pikepdf._core - INFO - pikepdf C++ to Python logger bridge initialized
+2026-04-19 07:34:58,222 - src.features.pdf_resume_parser - INFO - Scanned PDF detected. Running EasyOCR...
+2026-04-19 07:35:28,323 - src.features.pdf_resume_parser - INFO - EasyOCR extracted 2485 chars
+2026-04-19 07:35:28,326 - src.api.main - INFO - POST /upload_resume_async -> 200 (30.26s)
+2026-04-19 07:35:28,330 - src.api.main - INFO - Processing job a6d607d1-49d3-4ba8-bb57-20b1991ce605, text length: 2485
+2026-04-19 07:35:28,349 - src.features.skill_extractor - INFO - Extracted 5 skills: ['css', 'python', 'git', 'java', 'django']
+2026-04-19 07:35:28,353 - src.api.main - INFO - Job a6d607d1-49d3-4ba8-bb57-20b1991ce605 completed with 3 matches
+2026-04-19 07:36:31,344 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-19 07:36:34,376 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-19 07:36:35,255 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-19 07:38:54,572 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-19 07:38:57,916 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-19 07:38:58,857 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-19 07:56:02,453 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-19 07:56:05,596 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-19 07:56:06,488 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-19 07:56:50,183 - pikepdf._core - INFO - pikepdf C++ to Python logger bridge initialized
+2026-04-19 07:56:50,323 - src.features.pdf_resume_parser - INFO - Scanned PDF detected. Running EasyOCR...
+2026-04-19 07:57:28,803 - src.features.pdf_resume_parser - INFO - EasyOCR extracted 2485 chars
+2026-04-19 07:57:28,805 - src.api.main - INFO - POST /upload_resume_async -> 200 (38.66s)
+2026-04-19 07:57:28,809 - src.api.main - INFO - Processing job 62e9d63e-9421-4146-9e69-46b5f2a822aa, text length: 2485
+2026-04-19 07:57:28,833 - src.features.skill_extractor - INFO - Extracted 5 skills: ['java', 'django', 'css', 'git', 'python']
+2026-04-19 07:57:28,838 - src.api.main - INFO - Job 62e9d63e-9421-4146-9e69-46b5f2a822aa completed with 3 matches
+2026-04-19 07:57:31,000 - src.api.main - INFO - GET /job_status/62e9d63e-9421-4146-9e69-46b5f2a822aa -> 200 (0.00s)
+2026-04-19 08:02:52,453 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-19 08:02:56,622 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-19 08:02:57,592 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-19 08:03:10,285 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-19 08:03:13,545 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-19 08:03:14,461 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-19 08:03:23,527 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-19 08:03:27,291 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-19 08:03:28,162 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-19 08:04:13,153 - pikepdf._core - INFO - pikepdf C++ to Python logger bridge initialized
+2026-04-19 08:04:13,305 - src.features.pdf_resume_parser - INFO - Scanned PDF detected. Running EasyOCR...
+2026-04-19 08:04:50,543 - src.features.pdf_resume_parser - INFO - EasyOCR extracted 2485 chars
+2026-04-19 08:04:50,546 - src.api.main - INFO - POST /upload_resume_async -> 200 (37.43s)
+2026-04-19 08:04:50,547 - src.api.main - INFO - Processing job 5278e063-a4f9-4eb9-aa27-993b4ddc12ef, text length: 2485
+2026-04-19 08:04:50,573 - src.features.skill_extractor - INFO - Extracted 5 skills: ['python', 'django', 'css', 'java', 'git']
+2026-04-19 08:04:50,581 - src.api.main - INFO - Job 5278e063-a4f9-4eb9-aa27-993b4ddc12ef completed with 3 matches
+2026-04-19 08:04:52,605 - src.api.main - INFO - GET /job_status/5278e063-a4f9-4eb9-aa27-993b4ddc12ef -> 200 (0.00s)
+2026-04-19 08:06:35,054 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-19 08:06:37,970 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-19 08:06:38,756 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-19 08:07:52,134 - pikepdf._core - INFO - pikepdf C++ to Python logger bridge initialized
+2026-04-19 08:07:52,316 - src.features.pdf_resume_parser - INFO - Scanned PDF detected. Running EasyOCR...
+2026-04-19 08:08:35,740 - src.features.pdf_resume_parser - INFO - EasyOCR extracted 2179 chars
+2026-04-19 08:08:35,743 - src.api.main - INFO - POST /upload_resume_async -> 200 (43.65s)
+2026-04-19 08:08:35,759 - src.api.main - INFO - Processing job 54f7cf96-b05a-43dd-8123-2808db8f32ef, text length: 2179
+2026-04-19 08:08:35,786 - src.features.skill_extractor - INFO - Extracted 15 skills: ['python', 'java', 'sql', 'jenkins', 'scrum', 'mongodb', 'microservices', 'azure', 'flask', 'docker']
+2026-04-19 08:08:35,791 - src.api.main - INFO - Job 54f7cf96-b05a-43dd-8123-2808db8f32ef completed with 5 matches
+2026-04-19 08:08:38,134 - src.api.main - INFO - GET /job_status/54f7cf96-b05a-43dd-8123-2808db8f32ef -> 200 (0.00s)
+2026-04-20 06:36:04,165 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-20 06:36:07,792 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-20 06:36:10,956 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-20 06:36:50,314 - pikepdf._core - INFO - pikepdf C++ to Python logger bridge initialized
+2026-04-20 06:36:50,519 - src.features.pdf_resume_parser - INFO - Scanned PDF detected. Running EasyOCR...
+2026-04-20 06:37:47,083 - src.features.pdf_resume_parser - INFO - EasyOCR extracted 2485 chars
+2026-04-20 06:37:47,142 - src.api.main - INFO - POST /upload_resume_async -> 200 (57.04s)
+2026-04-20 06:37:47,160 - src.api.main - INFO - Processing job ea247380-7c7e-497c-841c-d0b9bd9b336b, text length: 2485
+2026-04-20 06:37:47,210 - src.features.skill_extractor - INFO - Extracted 5 skills: ['git', 'python', 'django', 'java', 'css']
+2026-04-20 06:37:47,215 - src.api.main - INFO - Job ea247380-7c7e-497c-841c-d0b9bd9b336b completed with 3 matches
+2026-04-20 06:37:49,344 - src.api.main - INFO - GET /job_status/ea247380-7c7e-497c-841c-d0b9bd9b336b -> 200 (0.02s)
+2026-04-20 06:42:48,463 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-20 06:42:52,124 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-20 06:42:53,570 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-20 06:44:42,442 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-20 06:44:46,454 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-20 06:44:47,277 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-20 06:45:00,573 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-20 06:45:06,037 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-20 06:45:07,655 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-20 06:46:35,408 - pikepdf._core - INFO - pikepdf C++ to Python logger bridge initialized
+2026-04-20 06:46:35,575 - src.features.pdf_resume_parser - INFO - Scanned PDF detected. Running EasyOCR...
+2026-04-20 06:47:50,368 - src.features.pdf_resume_parser - INFO - EasyOCR extracted 2485 chars
+2026-04-20 06:47:50,371 - src.api.main - INFO - POST /upload_resume_async -> 200 (75.01s)
+2026-04-20 06:47:50,375 - src.api.main - INFO - Processing job 4fc2f72e-7762-4399-a99d-2b42758c5d73, text length: 2485
+2026-04-20 06:47:50,388 - src.features.skill_extractor - INFO - Extracted 5 skills: ['python', 'django', 'java', 'git', 'css']
+2026-04-20 06:47:50,392 - src.api.main - INFO - Job 4fc2f72e-7762-4399-a99d-2b42758c5d73 completed with 3 matches
+2026-04-20 06:47:52,465 - src.api.main - INFO - GET /job_status/4fc2f72e-7762-4399-a99d-2b42758c5d73 -> 200 (0.00s)
+2026-04-20 06:54:38,896 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-20 06:54:43,039 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-20 06:54:44,513 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-20 06:55:01,099 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-20 06:55:08,161 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-20 06:55:11,039 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-20 06:55:59,405 - pikepdf._core - INFO - pikepdf C++ to Python logger bridge initialized
+2026-04-20 06:55:59,558 - src.features.pdf_resume_parser - INFO - Scanned PDF detected. Running EasyOCR...
+2026-04-20 06:56:29,519 - src.features.pdf_resume_parser - INFO - EasyOCR extracted 2485 chars
+2026-04-20 06:56:29,521 - src.api.main - INFO - POST /upload_resume_async -> 200 (30.17s)
+2026-04-20 06:56:29,524 - src.api.main - INFO - Processing job cfaffcbf-abde-4579-8b81-4d051864d96c, text length: 2485
+2026-04-20 06:56:29,534 - src.features.skill_extractor - INFO - Extracted 5 skills: ['git', 'java', 'css', 'django', 'python']
+2026-04-20 06:56:29,538 - src.api.main - INFO - Job cfaffcbf-abde-4579-8b81-4d051864d96c completed with 3 matches
+2026-04-20 07:04:04,833 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-20 07:04:10,894 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-20 07:04:13,711 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-20 07:05:19,871 - pikepdf._core - INFO - pikepdf C++ to Python logger bridge initialized
+2026-04-20 07:05:19,983 - src.features.pdf_resume_parser - INFO - Scanned PDF detected. Running EasyOCR...
+2026-04-20 07:05:53,277 - src.features.pdf_resume_parser - INFO - EasyOCR extracted 2485 chars
+2026-04-20 07:05:53,280 - src.api.main - INFO - POST /upload_resume_async -> 200 (33.45s)
+2026-04-20 07:05:53,282 - src.api.main - INFO - Processing job 5b6db664-ebc5-478a-bc3a-b8c58fbbcd2b, text length: 2485
+2026-04-20 07:05:53,297 - src.features.skill_extractor - INFO - Extracted 5 skills: ['python', 'django', 'git', 'css', 'java']
+2026-04-20 07:05:53,299 - src.api.main - INFO - Job 5b6db664-ebc5-478a-bc3a-b8c58fbbcd2b completed with 3 matches
+2026-04-20 07:14:27,384 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-20 07:14:32,255 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-20 07:14:33,515 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-20 07:15:00,230 - pikepdf._core - INFO - pikepdf C++ to Python logger bridge initialized
+2026-04-20 07:15:00,363 - src.features.pdf_resume_parser - INFO - Scanned PDF detected. Running EasyOCR...
+2026-04-20 07:15:33,919 - src.features.pdf_resume_parser - INFO - EasyOCR extracted 2485 chars
+2026-04-20 07:15:33,922 - src.api.main - INFO - POST /upload_resume_async -> 200 (33.73s)
+2026-04-20 07:15:33,923 - src.api.main - INFO - Processing job 9c971a7f-f3a3-4ffa-9fbf-c542da047777, text length: 2485
+2026-04-20 07:15:33,935 - src.features.skill_extractor - INFO - Extracted 5 skills: ['java', 'git', 'django', 'css', 'python']
+2026-04-20 07:15:33,937 - src.api.main - INFO - Job 9c971a7f-f3a3-4ffa-9fbf-c542da047777 completed with 3 matches
+2026-04-20 07:16:56,495 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-20 07:17:00,194 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-20 07:17:01,044 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-20 07:17:41,178 - pikepdf._core - INFO - pikepdf C++ to Python logger bridge initialized
+2026-04-20 07:17:41,291 - src.features.pdf_resume_parser - INFO - Scanned PDF detected. Running EasyOCR...
+2026-04-20 07:18:13,778 - src.features.pdf_resume_parser - INFO - EasyOCR extracted 2485 chars
+2026-04-20 07:18:13,780 - src.api.main - INFO - POST /upload_resume_async -> 200 (32.63s)
+2026-04-20 07:18:13,782 - src.api.main - INFO - Processing job 5213008b-d81f-4123-8a3f-440e237ba72d, text length: 2485
+2026-04-20 07:18:13,791 - src.features.skill_extractor - INFO - Extracted 5 skills: ['python', 'java', 'django', 'git', 'css']
+2026-04-20 07:18:13,793 - src.api.main - INFO - Job 5213008b-d81f-4123-8a3f-440e237ba72d completed with 3 matches
+2026-04-20 07:20:47,081 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-20 07:20:50,084 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-20 07:20:50,897 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-20 07:21:26,653 - pikepdf._core - INFO - pikepdf C++ to Python logger bridge initialized
+2026-04-20 07:21:26,821 - src.features.pdf_resume_parser - INFO - Scanned PDF detected. Running EasyOCR...
+2026-04-20 07:22:14,340 - src.features.pdf_resume_parser - INFO - EasyOCR extracted 2485 chars
+2026-04-20 07:22:14,344 - src.api.main - INFO - POST /upload_resume_async -> 200 (47.74s)
+2026-04-20 07:22:14,346 - src.api.main - INFO - Processing job 84cba2ae-3fab-4899-a548-91e4ba2961a8, text length: 2485
+2026-04-20 07:22:14,364 - src.features.skill_extractor - INFO - Extracted 5 skills: ['css', 'java', 'django', 'git', 'python']
+2026-04-20 07:22:14,370 - src.api.main - INFO - Job 84cba2ae-3fab-4899-a548-91e4ba2961a8 completed with 3 matches
+2026-04-20 07:23:25,385 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-20 07:23:28,915 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-20 07:23:29,834 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-20 07:23:51,351 - pikepdf._core - INFO - pikepdf C++ to Python logger bridge initialized
+2026-04-20 07:23:51,528 - src.features.pdf_resume_parser - INFO - Scanned PDF detected. Running EasyOCR...
+2026-04-20 07:24:44,404 - src.features.pdf_resume_parser - INFO - EasyOCR extracted 2485 chars
+2026-04-20 07:24:44,409 - src.api.main - INFO - POST /upload_resume_async -> 200 (53.10s)
+2026-04-20 07:24:44,419 - src.api.main - INFO - Processing job feb6722e-b1b8-4390-988f-601e6a7bd500, text length: 2485
+2026-04-20 07:24:44,451 - src.features.skill_extractor - INFO - Extracted 5 skills: ['git', 'css', 'java', 'django', 'python']
+2026-04-20 07:24:44,455 - src.api.main - INFO - Job feb6722e-b1b8-4390-988f-601e6a7bd500 completed with 3 matches
+2026-04-20 07:24:46,439 - src.api.main - INFO - GET /job_status/feb6722e-b1b8-4390-988f-601e6a7bd500 -> 200 (0.00s)
+2026-04-20 07:37:14,723 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-20 07:37:17,922 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-20 07:37:18,795 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-20 07:37:58,880 - pikepdf._core - INFO - pikepdf C++ to Python logger bridge initialized
+2026-04-20 07:37:59,042 - src.features.pdf_resume_parser - INFO - Scanned PDF detected. Running EasyOCR...
+2026-04-20 07:38:58,465 - src.features.pdf_resume_parser - INFO - EasyOCR extracted 2485 chars
+2026-04-20 07:38:58,467 - src.api.main - INFO - POST /upload_resume_async -> 200 (59.63s)
+2026-04-20 07:38:58,473 - src.api.main - INFO - Processing job 2aca38ea-6c37-4915-ab86-066e0d3e7f38, text length: 2485
+2026-04-20 07:38:58,501 - src.features.skill_extractor - INFO - Extracted 5 skills: ['python', 'git', 'java', 'css', 'django']
+2026-04-20 07:38:58,510 - src.api.main - INFO - Job 2aca38ea-6c37-4915-ab86-066e0d3e7f38 completed with 3 matches
+2026-04-20 07:39:00,510 - src.api.main - INFO - GET /job_status/2aca38ea-6c37-4915-ab86-066e0d3e7f38 -> 200 (0.00s)
+2026-04-20 07:47:27,400 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-20 07:47:30,436 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-20 07:47:31,274 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-20 07:48:25,122 - pikepdf._core - INFO - pikepdf C++ to Python logger bridge initialized
+2026-04-20 07:48:25,270 - src.features.pdf_resume_parser - INFO - Scanned PDF detected. Running EasyOCR...
+2026-04-20 07:49:04,991 - src.features.pdf_resume_parser - INFO - EasyOCR extracted 2485 chars
+2026-04-20 07:49:04,994 - src.api.main - INFO - POST /upload_resume_async -> 200 (39.92s)
+2026-04-20 07:49:04,998 - src.api.main - INFO - Processing job 17000d67-2892-4b4c-89a4-8f8cb3e81778, text length: 2485
+2026-04-20 07:49:05,023 - src.features.skill_extractor - INFO - Extracted 5 skills: ['java', 'css', 'django', 'git', 'python']
+2026-04-20 07:49:05,027 - src.api.main - INFO - Job 17000d67-2892-4b4c-89a4-8f8cb3e81778 completed with 3 matches
+2026-04-20 07:49:07,037 - src.api.main - INFO - GET /job_status/17000d67-2892-4b4c-89a4-8f8cb3e81778 -> 200 (0.00s)
+2026-04-20 08:06:32,750 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-20 08:06:37,269 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-20 08:06:38,540 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-20 08:07:21,776 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-20 08:07:24,783 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-20 08:07:25,537 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-20 08:08:45,349 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-20 08:08:48,631 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-20 08:08:49,394 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-20 08:09:31,474 - pikepdf._core - INFO - pikepdf C++ to Python logger bridge initialized
+2026-04-20 08:09:31,724 - src.features.pdf_resume_parser - INFO - Scanned PDF detected. Running EasyOCR...
+2026-04-20 08:10:04,394 - src.features.pdf_resume_parser - INFO - EasyOCR extracted 2485 chars
+2026-04-20 08:10:04,397 - src.api.main - INFO - POST /upload_resume_async -> 200 (32.98s)
+2026-04-20 08:10:04,399 - src.api.main - INFO - Processing job 79ea7f5b-0eaf-42b9-9d2c-8b9863712879, text length: 2485
+2026-04-20 08:10:04,418 - src.features.skill_extractor - INFO - Extracted 5 skills: ['python', 'django', 'css', 'java', 'git']
+2026-04-20 08:10:04,431 - src.api.main - INFO - Job 79ea7f5b-0eaf-42b9-9d2c-8b9863712879 completed with 3 matches
+2026-04-20 08:10:18,100 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-20 08:10:22,668 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-20 08:10:23,699 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-20 08:11:05,306 - pikepdf._core - INFO - pikepdf C++ to Python logger bridge initialized
+2026-04-20 08:11:05,470 - src.features.pdf_resume_parser - INFO - Scanned PDF detected. Running EasyOCR...
+2026-04-20 08:11:43,761 - src.features.pdf_resume_parser - INFO - EasyOCR extracted 2485 chars
+2026-04-20 08:11:43,763 - src.api.main - INFO - POST /upload_resume_async -> 200 (38.50s)
+2026-04-20 08:11:43,765 - src.api.main - INFO - Processing job 6a0298d8-2352-458b-989d-bb239d24fc1f, text length: 2485
+2026-04-20 08:11:43,791 - src.features.skill_extractor - INFO - Extracted 5 skills: ['git', 'java', 'django', 'python', 'css']
+2026-04-20 08:11:43,797 - src.api.main - INFO - Job 6a0298d8-2352-458b-989d-bb239d24fc1f completed with 3 matches
+2026-04-20 08:11:45,893 - src.api.main - INFO - GET /job_status/6a0298d8-2352-458b-989d-bb239d24fc1f -> 200 (0.00s)
+2026-04-20 08:15:55,899 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-20 08:15:58,870 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-20 08:15:59,657 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-20 08:16:09,479 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-20 08:16:12,429 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-20 08:16:13,184 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-20 08:16:53,549 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-20 08:16:56,480 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-20 08:16:57,225 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-20 08:17:41,601 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-20 08:17:44,988 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-20 08:17:45,770 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-20 08:17:54,901 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-20 08:17:59,123 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-20 08:17:59,947 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-20 08:18:09,759 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-20 08:18:13,151 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-20 08:18:14,497 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-20 08:18:23,433 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-20 08:18:26,411 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-20 08:18:27,240 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-20 08:18:49,160 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-20 08:18:52,657 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-20 08:18:53,520 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-20 08:19:03,300 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-20 08:19:06,505 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-20 08:19:07,305 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-20 08:19:24,324 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-04-20 08:19:27,507 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-04-20 08:19:28,280 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-04-20 08:44:14,691 - src.features.pdf_resume_parser - INFO - Scanned PDF detected. Running EasyOCR...
+2026-04-20 08:45:11,016 - src.features.pdf_resume_parser - INFO - EasyOCR extracted 2186 chars
+2026-04-20 08:45:11,019 - src.api.main - INFO - POST /upload_resume_async -> 200 (56.36s)
+2026-04-20 08:45:11,025 - src.api.main - INFO - Processing job 2eb40b4f-154b-49d2-bec3-886d86f3e563, text length: 2186
+2026-04-20 08:45:11,051 - src.features.skill_extractor - INFO - Extracted 15 skills: ['javascript', 'aws', 'react', 'docker', 'flask', 'agile', 'scrum', 'azure', 'python', 'sql']
+2026-04-20 08:45:11,063 - src.api.main - INFO - Job 2eb40b4f-154b-49d2-bec3-886d86f3e563 completed with 5 matches
+2026-04-20 08:45:13,110 - src.api.main - INFO - GET /job_status/2eb40b4f-154b-49d2-bec3-886d86f3e563 -> 200 (0.00s)
+2026-05-07 06:49:34,593 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-05-07 06:49:40,876 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-05-07 06:49:45,548 - src.models.hybrid_matcher - INFO - Loaded 14 job categories
+2026-05-07 06:49:53,458 - pikepdf._core - INFO - pikepdf C++ to Python logger bridge initialized
+2026-05-07 06:49:53,726 - src.features.pdf_resume_parser - INFO - Scanned PDF detected. Running EasyOCR...
+2026-05-07 06:50:46,026 - src.features.pdf_resume_parser - INFO - EasyOCR extracted 2179 chars
+2026-05-07 06:50:46,058 - src.api.main - INFO - POST /upload_resume_async -> 200 (52.88s)
+2026-05-07 06:50:46,064 - src.api.main - INFO - Processing job 294f2022-0e11-4bdc-87b7-48543239a293, text length: 2179
+2026-05-07 06:50:46,093 - src.features.skill_extractor - INFO - Extracted 15 skills: ['react', 'docker', 'django', 'agile', 'flask', 'python', 'javascript', 'scrum', 'jenkins', 'aws']
+2026-05-07 06:50:46,096 - src.api.main - INFO - Job 294f2022-0e11-4bdc-87b7-48543239a293 completed with 5 matches
+2026-05-07 06:50:48,102 - src.api.main - INFO - GET /job_status/294f2022-0e11-4bdc-87b7-48543239a293 -> 200 (0.01s)
+2026-05-07 06:52:27,108 - src.features.pdf_resume_parser - INFO - Scanned PDF detected. Running EasyOCR...
+2026-05-07 06:53:09,592 - src.features.pdf_resume_parser - INFO - EasyOCR extracted 2478 chars
+2026-05-07 06:53:09,594 - src.api.main - INFO - POST /upload_resume_async -> 200 (42.64s)
+2026-05-07 06:53:09,596 - src.api.main - INFO - Processing job 8a8b11bf-757f-46b1-aec2-7794daf44f22, text length: 2478
+2026-05-07 06:53:09,604 - src.features.skill_extractor - INFO - Extracted 5 skills: ['css', 'django', 'python', 'git', 'java']
+2026-05-07 06:53:09,604 - src.api.main - INFO - Job 8a8b11bf-757f-46b1-aec2-7794daf44f22 completed with 3 matches
+2026-05-07 06:53:11,641 - src.api.main - INFO - GET /job_status/8a8b11bf-757f-46b1-aec2-7794daf44f22 -> 200 (0.00s)
+2026-05-07 06:54:09,865 - src.features.pdf_resume_parser - INFO - Scanned PDF detected. Running EasyOCR...
+2026-05-07 06:54:45,670 - src.features.pdf_resume_parser - INFO - EasyOCR extracted 2478 chars
+2026-05-07 06:54:45,672 - src.api.main - INFO - POST /upload_resume_async -> 200 (35.87s)
+2026-05-07 06:54:45,675 - src.api.main - INFO - Processing job 636f4826-be85-4b8f-b652-f6180fd962d0, text length: 2478
+2026-05-07 06:54:45,685 - src.features.skill_extractor - INFO - Extracted 5 skills: ['css', 'django', 'python', 'git', 'java']
+2026-05-07 06:54:45,686 - src.api.main - INFO - Job 636f4826-be85-4b8f-b652-f6180fd962d0 completed with 3 matches
+2026-05-07 07:08:13,124 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-05-07 07:08:16,451 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-05-07 07:08:17,670 - src.models.hybrid_matcher - INFO - Loaded 60 job categories
+2026-05-07 07:08:39,133 - pikepdf._core - INFO - pikepdf C++ to Python logger bridge initialized
+2026-05-07 07:08:39,316 - src.features.pdf_resume_parser - INFO - Scanned PDF detected. Running EasyOCR...
+2026-05-07 07:09:26,209 - src.features.pdf_resume_parser - INFO - EasyOCR extracted 2478 chars
+2026-05-07 07:09:26,212 - src.api.main - INFO - POST /upload_resume_async -> 200 (47.14s)
+2026-05-07 07:09:26,215 - src.api.main - INFO - Processing job b8966597-6ec7-46ab-ba95-36b2091359e2, text length: 2478
+2026-05-07 07:09:26,233 - src.features.skill_extractor - INFO - Extracted 5 skills: ['django', 'git', 'css', 'java', 'python']
+2026-05-07 07:09:26,243 - src.api.main - INFO - Job b8966597-6ec7-46ab-ba95-36b2091359e2 completed with 4 matches
+2026-05-07 07:09:28,262 - src.api.main - INFO - GET /job_status/b8966597-6ec7-46ab-ba95-36b2091359e2 -> 200 (0.00s)
+2026-05-07 07:11:39,464 - easyocr.easyocr - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2026-05-07 07:11:42,599 - src.features.pdf_resume_parser - INFO - EasyOCR reader loaded successfully
+2026-05-07 07:11:43,503 - src.models.hybrid_matcher - INFO - Loaded 60 job categories
+2026-05-07 07:13:26,689 - pikepdf._core - INFO - pikepdf C++ to Python logger bridge initialized
+2026-05-07 07:13:26,861 - src.features.pdf_resume_parser - INFO - Scanned PDF detected. Running EasyOCR...
+2026-05-07 07:14:16,096 - src.features.pdf_resume_parser - INFO - EasyOCR extracted 2179 chars
+2026-05-07 07:14:16,102 - src.api.main - INFO - POST /upload_resume_async -> 200 (49.46s)
+2026-05-07 07:14:16,107 - src.api.main - INFO - Processing job 432a81ea-3ac9-4ab2-83fe-612f0a6ebaba, text length: 2179
+2026-05-07 07:14:16,130 - src.features.skill_extractor - INFO - Extracted 15 skills: ['java', 'scrum', 'jenkins', 'javascript', 'agile', 'django', 'aws', 'azure', 'docker', 'react']
+2026-05-07 07:14:16,138 - src.api.main - INFO - Job 432a81ea-3ac9-4ab2-83fe-612f0a6ebaba completed with 5 matches
+2026-05-07 07:14:18,175 - src.api.main - INFO - GET /job_status/432a81ea-3ac9-4ab2-83fe-612f0a6ebaba -> 200 (0.00s)

@@ -1,0 +1,6 @@
+model:
+  type: "bert"  # or "lstm", "tfidf"
+  epochs: 10
+  batch_size: 16
+  learning_rate: 2e-5
+  train_test_split: 0.2

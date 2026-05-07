@@ -1,0 +1,8 @@
+dataset:
+  huggingface_repo: "AzharAli05/Resume-Screening-Dataset"
+  cache_dir: "data/raw"
+  processed_dir: "data/processed"
+
+pdf_parsing:
+  fallback_to_ocr: true
+  ocr_languages: ["en"]
